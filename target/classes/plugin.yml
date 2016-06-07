@@ -1,0 +1,5 @@
+name: Rocket.Chat.Example
+main: com.graywolf336.rocketchat.example.RocketChatMinecraftExampleMain
+version: 0.0.1-SNAPSHOT-b0
+authors: [graywolf336]
+depend: ['Rocket.Chat']
